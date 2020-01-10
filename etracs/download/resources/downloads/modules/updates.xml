@@ -20,7 +20,9 @@ entity.app.context=etracs25
 </env>
 <modules> 
 
-	<!-- custom modules -->
+	<!-- custom libraries -->
+	<module file="custom/rpt-publicland.jar" version="1.5"/>
+	<module file="custom/gov-lgu-sancarlos-rptis.jar" version="1.20"/>
 
 	<!-- core libraries -->
 	<module file="core/osiris2-client-themes.jar" version="2.60"/>
@@ -61,8 +63,6 @@ entity.app.context=etracs25
 
 	<!-- rptis -->
 	<module file="rameses-gov-etracs-rptis-city.jar" version="2.61"/>
-	<module file="rameses-gov-etracs-rptis-landtax.jar" version="2.66"/>
-	<module file="rameses-gov-etracs-rptis-landtax-report.jar" version="2.63"/>
 	<module file="rameses-gov-etracs-rptis.jar" version="2.71"/>
 	<module file="rameses-gov-etracs-rptis-report.jar" version="2.66"/>
 	<module file="rameses-gov-etracs-signatory-template.jar" version="2.60"/>
