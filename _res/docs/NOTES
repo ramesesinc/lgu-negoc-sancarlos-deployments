@@ -1,0 +1,18 @@
+[app-server]
+IP  : 192.168.0.9
+User: administrator
+Pass: adminpw
+
+Portainer-URL : https://192.168.0.9:9000
+Portainer-User: admin
+Portainer-Pass: p@ssw0rd
+
+Webmin-URL : https://192.168.0.9:10000
+Webmin-User: administrator
+Webmin-Pass: adminpw
+
+[db-server]
+Type: MySQL
+IP  : 192.168.0.10
+User: root
+Pass: 1234
