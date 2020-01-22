@@ -65,7 +65,7 @@ entity.app.context=etracs25
 	<module file="rameses-gov-etracs-rptis-city.jar" version="2.61"/>
 	<module file="rameses-gov-etracs-rptis-landtax.jar" version="2.67"/>
 	<module file="rameses-gov-etracs-rptis-landtax-report.jar" version="2.67"/>
-	<module file="rameses-gov-etracs-rptis.jar" version="2.71"/>
+	<module file="rameses-gov-etracs-rptis.jar" version="2.72"/>
 	<module file="rameses-gov-etracs-rptis-report.jar" version="2.66"/>
 	<module file="rameses-gov-etracs-signatory-template.jar" version="2.60"/>
 	
